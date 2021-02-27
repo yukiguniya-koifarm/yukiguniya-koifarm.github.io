@@ -1,9 +1,9 @@
 @media screen and (max-width:959px){
 	.card .name{
-	font-size: 10px;
+	font-size: 13px;
 	white-space: nowrap;
 	}
 	.card .discription{
-	font-size: 6px;
+	font-size: 9px;
 	}
 }
