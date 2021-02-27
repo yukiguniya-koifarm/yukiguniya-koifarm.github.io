@@ -3,10 +3,10 @@
 	width:33%;
 	}
 	.card .name{
-	font-size: 16px;
+	font-size: 14px;
 	white-space: nowrap;
 	}
 	.card .discription{
-	font-size: 14px;
+	font-size: 12px;
 	}
 }
