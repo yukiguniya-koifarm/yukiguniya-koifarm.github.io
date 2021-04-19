@@ -6,6 +6,10 @@ body{
 header{
 	background-color:#bdb76b;
 }
+header img{
+	display:block;
+	margin:auto;
+}
 .main{
 	display: flex;
 	justify-content: space-around;
