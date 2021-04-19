@@ -3,6 +3,9 @@ body{
 	padding-bottom: 55px;
 	background-image:url("image/36223.PNG");
 }
+.header{
+	font-size:40px;
+	background-color:#bdb76b;
 .main{
 	display: flex;
 	justify-content: space-around;
