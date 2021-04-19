@@ -1,4 +1,7 @@
 @media screen and (max-width:959px){
+	header img{
+	width:70%;
+	}
 	.card{
 	width:33%;
 	}
