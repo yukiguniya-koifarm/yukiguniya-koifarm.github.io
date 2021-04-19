@@ -1,6 +1,7 @@
 body{
 	padding-bottom: 55px;
 	background-image:url("image/36223.PNG");
+	color:#333333;
 }
 header{
 	background-color:#bdb76b;
@@ -15,7 +16,6 @@ header img{
 	justify-content: space-around;
 	flex-wrap: wrap;
 	width:100%;
-	color:#333333;
 }
 .card{
 	width:24%;
@@ -42,5 +42,4 @@ header img{
 .note{
 	font-size:20px;
 	margin-top:30px;
-	color:#333333;
 }
