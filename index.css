@@ -15,6 +15,7 @@ header img{
 	justify-content: space-around;
 	flex-wrap: wrap;
 	width:100%;
+	color:#333333;
 }
 .card{
 	width:24%;
@@ -41,4 +42,5 @@ header img{
 .note{
 	font-size:20px;
 	margin-top:30px;
+	color:#333333;
 }
